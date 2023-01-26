@@ -4,7 +4,9 @@
  
 
 <h1 align="center">Connect me at</h1>
-<p>Email : <a href="mailto:mdaliansari33@gmail.com">mdaliansari33@gmail.com</a></p>
+
+<p>Email : <a rel="noreferrer" href="mailto:mdaliansari33@gmail.com">mdaliansari33@gmail.com</a></p>
+<p>Resume : <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/161SInaOmha7FuXHDnCKgb6tunNUfo8eN/view?usp=share_link">Get Resume</a></p>
 <p align="left">
 <a href="https://dev.to/hasmuddinansari" style="margin-right:5px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hasmuddinansari" height="30" width="50" /></a>
 <a href="https://linkedin.com/in/hasmuddinansarii" style="margin-right:5px" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasmuddin-ansari-397825156" height="30" width="50" /></a>
