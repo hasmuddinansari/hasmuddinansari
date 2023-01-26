@@ -1,4 +1,4 @@
-<image src="https://cutewallpaper.org/23/web-developer-wallpaper-1920x1080/2313625979.jpg" align="center" height="400" width="100%"/>
+<image src="https://i.ibb.co/6WWKp87/Technology-Review.jpg" align="center" height="auto" width="100%"/>
 <h1 align="center">Hi 👋, I'm Hasmuddin Ansari</h1>
 <h3 align="left">I am a front-end developer with 3 years of experience in the field. I have a strong background in building user-friendly and responsive web applications using technologies such as HTML, CSS, JavaScript, and React. I am constantly learning and experimenting with new tools and frameworks to improve my skills and deliver the best solutions to my clients.</h3> 
  
