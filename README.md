@@ -52,7 +52,7 @@ Sept 2021 - Feb 2023
 
 **Frontend Developer**<br/>
 Revnue,  Remote <br/>
-Feb 13 - Present
+Feb 2023 - Present
 
 
 -   Revamped frontend API calls for significant speed boost, resulting in 5x faster loading times compared to the previous version.
