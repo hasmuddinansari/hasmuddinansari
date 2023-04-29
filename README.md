@@ -35,9 +35,9 @@ May 2020 - Sept 2021
 ##
 
 
-**Frontend Developer**<br/>
+**Full-Stack Developer**<br/>
 Camp k12,  Gurugram <br/>
-Sept 2021 - Present
+Sept 2021 - Feb 2023
 
 
 -   Designing and developing the user interface for students and teachers to access educational content and resources.
@@ -47,6 +47,18 @@ Sept 2021 - Present
 -   Implementing responsive design to ensure that the interface looks and works well on different devices and screen sizes.
 -   Collaborating with other developers, designers, and stakeholders to ensure that the final product meets the requirements and expectations.
 -   Building and integrating with APIs to connect with other educational tools and resources.
+##
+
+
+**Frontend Developer**<br/>
+Revnue,  Remote <br/>
+Feb 13 - Present
+
+
+-   Revamped frontend API calls for significant speed boost, resulting in 5x faster loading times compared to the previous version.
+-   Developed a dashboard with a graph to analyze and display contract and supplier data.
+-   Implemented a custom map in the app along with the integration of Google Maps, enabling asset tracking functionality for users. The feature allows for seamless tracking and monitoring of assets in real-time
+
 ##
 
 
